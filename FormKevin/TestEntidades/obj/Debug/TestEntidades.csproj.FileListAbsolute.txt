@@ -1,0 +1,10 @@
+D:\VisualStudio\FormKevin\TestEntidades\obj\Debug\TestEntidades.csprojAssemblyReference.cache
+D:\VisualStudio\FormKevin\TestEntidades\obj\Debug\TestEntidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\FormKevin\TestEntidades\bin\Debug\TestEntidades.exe.config
+D:\VisualStudio\FormKevin\TestEntidades\bin\Debug\TestEntidades.exe
+D:\VisualStudio\FormKevin\TestEntidades\bin\Debug\TestEntidades.pdb
+D:\VisualStudio\FormKevin\TestEntidades\bin\Debug\Entidades.dll
+D:\VisualStudio\FormKevin\TestEntidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\FormKevin\TestEntidades\obj\Debug\TestEntidades.csproj.CopyComplete
+D:\VisualStudio\FormKevin\TestEntidades\obj\Debug\TestEntidades.exe
+D:\VisualStudio\FormKevin\TestEntidades\obj\Debug\TestEntidades.pdb

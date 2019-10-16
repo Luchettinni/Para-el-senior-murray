@@ -1,0 +1,10 @@
+D:\VisualStudio\FormKevin\FormKevin\bin\Debug\FormKevin.exe.config
+D:\VisualStudio\FormKevin\FormKevin\bin\Debug\FormKevin.exe
+D:\VisualStudio\FormKevin\FormKevin\bin\Debug\FormKevin.pdb
+D:\VisualStudio\FormKevin\FormKevin\obj\Debug\FormKevin.csprojAssemblyReference.cache
+D:\VisualStudio\FormKevin\FormKevin\obj\Debug\FormKevin.Form1.resources
+D:\VisualStudio\FormKevin\FormKevin\obj\Debug\FormKevin.Properties.Resources.resources
+D:\VisualStudio\FormKevin\FormKevin\obj\Debug\FormKevin.csproj.GenerateResource.cache
+D:\VisualStudio\FormKevin\FormKevin\obj\Debug\FormKevin.csproj.CoreCompileInputs.cache
+D:\VisualStudio\FormKevin\FormKevin\obj\Debug\FormKevin.exe
+D:\VisualStudio\FormKevin\FormKevin\obj\Debug\FormKevin.pdb
